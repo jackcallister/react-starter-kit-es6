@@ -35,4 +35,5 @@ There is a `index.html` file which is served by the python server. This loads a 
 The JavaScript file is a bundle which is produced by having Webpack bundle and transpile the `src/index.jsx` file.
 
 - What the hell?
-Really confused with this? Ping me on twitter (@jarsbe) or email (jarsbe@gmail.com), better yet find me on the Reactiflux Slack channel (@jarsbe) for help.
+
+Confused? Ping me on twitter (@jarsbe) or email (jarsbe@gmail.com), better yet find me on the Reactiflux Slack channel (@jarsbe) for help.
