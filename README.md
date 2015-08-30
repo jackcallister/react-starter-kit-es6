@@ -36,4 +36,4 @@ The JavaScript file is a bundle which is produced by having Webpack bundle and t
 
 - What the hell?
 
-Confused? Ping me on twitter (@jarsbe) or email (jarsbe@gmail.com), better yet find me on the Reactiflux Slack channel (@jarsbe) for help.
+Confused? Ping me on twitter ([@jarsbe](https://twitter.com/jarsbe)) or email (jarsbe@gmail.com), better yet find me on the Reactiflux Slack channel (@jarsbe) for help.
