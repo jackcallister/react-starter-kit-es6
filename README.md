@@ -14,7 +14,7 @@ You will need `npm` in order to install dependencies and run the bundling script
 
 `npm i`
 
-`python -m SimpleHTTPServer`
+`npm start`
 
 Visit `localhost:8000` to view the project.
 
@@ -22,11 +22,11 @@ Visit `localhost:8000` to view the project.
 
 - What is Webpack?
 
-Webpack is a build tool for bundlings JavaScript modules together in order to run them on the browser.
+[Webpack](http://webpack.github.io/) is a build tool for bundlings JavaScript modules together in order to run them on the browser.
 
 - What is Babel?
 
-Babel is a JavaScript transpiler, it allows you to write ES6 code. In this project there is a Babel "Loader" which is a Webpack plugin. This lets Babel transpiles the ES6 code into browser run-able ES5 code before the modules are bundled.
+[Babel](https://babeljs.io/) is a JavaScript transpiler, it allows you to write ES6 code. In this project there is a Babel "Loader" which is a Webpack plugin. This lets Babel transpiles the ES6 code into browser run-able ES5 code before the modules are bundled.
 
 - How does all of this work?
 
@@ -36,4 +36,4 @@ The JavaScript file is a bundle which is produced by having Webpack bundle and t
 
 - What the hell?
 
-Confused? Ping me on twitter ([@jarsbe](https://twitter.com/jarsbe)) or email (jarsbe@gmail.com), better yet find me on the Reactiflux Slack channel (@jarsbe) for help.
+Confused? Ping me on twitter [@jarsbe](https://twitter.com/jarsbe) or email (jarsbe@gmail.com), better yet find me on the Reactiflux Slack channel (@jarsbe) for help.
