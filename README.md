@@ -30,10 +30,4 @@ Visit `localhost:8000` to view the project.
 
 - How does all of this work?
 
-There is a `index.html` file which is served by the python server. This loads a JavaScript file which renders the application into the `#app` div.
-
-The JavaScript file is a bundle which is produced by having Webpack bundle and transpile the `src/index.jsx` file.
-
-- What the hell?
-
-Confused? Ping me on twitter [@jarsbe](https://twitter.com/jarsbe) or email (jarsbe@gmail.com), better yet find me on the Reactiflux Slack channel (@jarsbe) for help.
+The index.html file loads then React which renders a Javascript application into the `#app` div.
